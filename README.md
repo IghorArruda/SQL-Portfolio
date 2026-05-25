@@ -20,6 +20,20 @@ Este repositório contém scripts SQL que desenvolvi para demonstrar minhas comp
 | Subqueries | `06_subquery.sql` |
 | Criação de VIEWs | `07_create_views.sql` |
 
+## 📊 Fonte dos Dados
+
+Os scripts SQL deste portfólio foram desenvolvidos para o banco de dados **AdventureWorksDW2019** da Microsoft, um banco de dados fictício que simula operações de vendas de uma empresa de bicicletas.
+
+**Principais tabelas utilizadas:**
+- `FactInternetSales` - Vendas online
+- `DimProduct` - Catálogo de produtos
+- `DimCustomer` - Dados dos clientes
+- `DimSalesTerritory` - Territórios de venda
+
+🔗 **Download gratuito:** [Microsoft SQL Server Samples - AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
+
+📌 *Prints dos resultados serão adicionados em breve.*
+
 ## 🛠️ Tecnologias
 - SQL Server / T-SQL
 - Git & GitHub
